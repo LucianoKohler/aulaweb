@@ -3,7 +3,8 @@ include "header.php"
 ?>
     <main>
         <div>
-            <h1>Portfolio</h1>
+            <h1 class="text-center mb-4">Portfolio</h1>
+            <p class="text-center">Essa não é a página de avaliação! <a href="avaliacao.php">Ir para ela</a></p>
         </div>
     </main>
 <?php
